@@ -6,7 +6,7 @@
 
 <a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D201738571" /></a> <a href="https://github.com/HearLing"><img src="https://img.shields.io/github/stars/HearLing?color=faf408&label=github%20stars&logo=github" /></a> [![visitors](https://visitor-badge.laobi.icu/badge?page_id=HearLing.HearLing)](https://visitor-badge.laobi.icu/badge?page_id=HearLing.HearLing) [![stars](https://img.shields.io/github/stars/HearLing?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=HearLing&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn) [![AweSome](https://img.shields.io/badge/Awesome-HearLing-c780fa?logo=Awesome-Lists)](https://github.com/HearLing/awesome-stars-hearling#readme)
 
-## :computer: 语言工具
+## tools
 
 <div style="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -30,21 +30,9 @@
 
 </div>
 
-## :zap: 动态
+## activity
 
-<details>
-<summary>点击展开</summary>
-
-<table align="center">
-<tr>
-<td valign="top">
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-</td>
-</tr>
-</table>
-
-</details>
