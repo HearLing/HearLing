@@ -29,10 +29,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma"/>
 
 </div>
-
-## activity
-
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
